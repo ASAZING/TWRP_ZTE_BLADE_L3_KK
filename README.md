@@ -1,8 +1,8 @@
 # Build
 
-*TWRP
+* TWRP
 
-*BUG 
+* BUG 
 NOT RESTART IN THE RECOVERY
 FIX REMOVE THE BATTERY AND PHONE ON
 
@@ -21,6 +21,10 @@ FIX REMOVE THE BATTERY AND PHONE ON
 * full build
 
         # brunch aicp_blade_l3-eng
+
+* FACEBOOK 
+
+# https://www.facebook.com/Team-Phoenix-1719991991571980/?fref=ts
 
 # MTK
 
